@@ -1,4 +1,8 @@
-import json, random, time, socket, platform
+import json
+import random
+import time
+import socket
+import platform
 
 timestr = time.strftime("%Y-%m-%d - %H:%M:%S UTC")
 
